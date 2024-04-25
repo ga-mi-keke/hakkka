@@ -1,11 +1,6 @@
 #include<stdio.h>
 int main(){
 
-
-
-
-
-
-    //dsafdafa
+printf("gg");
 printf("hello world\n");
 }
